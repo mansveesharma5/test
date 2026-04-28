@@ -1,2 +1,1 @@
-# test
-This is my first project.
+# My test Python Project
